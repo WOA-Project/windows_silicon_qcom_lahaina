@@ -43,10 +43,10 @@
 | QRD08350                                 | 415, 456, 501          | 0                                | MSM™               |
 | QRD18350                                 | 415, 456, 501          | 1                                | MSM™ + HSP         |
 | QRD28350                                 | 415, 456, 501          | 2                                | MSM™ + HSP PRO     |
-| SIP08350                                 | 415, 456, 501          | 8                                | MSM™               |
+| QSP08350                                 | 415, 456, 501          | 8                                | MSM™               |
 | QRDA8350                                 | 439, 502               | 0                                | APQ™               |
 
-*SIP: System In Package Module Reference Card
+*QSP: System In Package Module Reference Card
 
 ### RUMI
 
